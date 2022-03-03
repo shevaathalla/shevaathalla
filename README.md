@@ -9,7 +9,7 @@
 
 - Reach me by email **shevaathalla@gmail.com**
   
-- You can see my portfolio here shevaathalla.me
+- You can see my portfolio here <a href="shevaathalla.me">shevaathalla.me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/sheva-athalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shevaathalla" height="30" width="40" /></a><a href="https://twitter.com/athallasheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athallasheva" height="30" width="40" /></a>
