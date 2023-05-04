@@ -1,15 +1,13 @@
 <h1 align="left">Hello there, I'm Sheva</h1>
-<h3 align="left">A Fullstack Developer Who is Still Learning</h3>
+<h3 align="left">Self proclaimed developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shevaathalla&label=Profile%20views&color=0e75b6&style=flat" alt="shevaathalla" /> </p>
 
-- I’m currently learning **React, Typescript, Vue, Tailwind and NOSQL Databases** and another technology out there
-
-- **Laravel** enthusiast
+- I’m currently learning **PHP, Go, Typescript** and manymore
 
 - Reach me by email **shevaathalla@gmail.com**
   
-- You can see my portfolio here <a href="shevaathalla.me">shevaathalla.me</a>
+- You can see my portfolio here <a href="shevaathalla.ninja">shevaathalla.ninja</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/sheva-athalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shevaathalla" height="30" width="40" /></a><a href="https://twitter.com/athallasheva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athallasheva" height="30" width="40" /></a>
